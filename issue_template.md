@@ -5,7 +5,7 @@ If you're looking for help check [Stack Overflow](https://stackoverflow.com/ques
 
 **Is this a BUG or FEATURE REQUEST?:**
 
-**Did you try to review existing epics or issues to identify if this already being worked on?:**
+**Did you review existing epics or issues to identify if this already being worked on?:**
 
 **Bug:**
 **What happened**:
@@ -15,4 +15,4 @@ If you're looking for help check [Stack Overflow](https://stackoverflow.com/ques
 **How to reproduce it (as minimally and precisely as possible):**
 
 **Feature Request:**
-**Describe the request:**
+**Describe the feature:**
