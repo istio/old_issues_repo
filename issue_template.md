@@ -7,6 +7,14 @@ If you're looking for help check https://istio.io/troubleshooting/
 **Did you review existing epics or issues to identify if this already being worked on?** (please try to add the correct labels and epics):
 
 **Bug:**
+Y/N
+
+**What Version of Istio and Kubernetes are you using, where did you get Istio from, Installation details**
+```
+istioctl version
+kubectl version
+```
+
 **What happened**:
 
 **What you expected to happen:**
@@ -15,4 +23,6 @@ If you're looking for help check https://istio.io/troubleshooting/
 
 
 **Feature Request:**
+Y/N
+
 **Describe the feature:**
