@@ -15,6 +15,9 @@ istioctl version
 kubectl version
 ```
 
+**Is Istio Auth enabled or not ?**
+Did you install istio.yaml, istio-auth.yaml....
+
 **What happened**:
 
 **What you expected to happen:**
