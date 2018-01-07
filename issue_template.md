@@ -4,7 +4,7 @@ If you're looking for help check https://istio.io/troubleshooting/
 
 **Is this a BUG or FEATURE REQUEST?:**
 
-**Did you review istio.io/help and existing issues to identify if this already solvef or being worked on?**:
+**Did you review istio.io/help and existing issues to identify if this is already solved or being worked on?**:
 
 **Bug:**
 Y/N
