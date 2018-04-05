@@ -16,7 +16,7 @@ kubectl version
 ```
 
 **Is Istio Auth enabled or not ?**
-Did you install the very mature istio.yaml, istio-auth.yaml....  or the immature Helm chart directly?
+Did you install the stable istio.yaml, istio-auth.yaml....  or the Helm chart?
 
 **What happened**:
 
